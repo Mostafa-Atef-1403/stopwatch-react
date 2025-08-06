@@ -46,3 +46,5 @@ h2 {
 .reset-btn:hover {
   background: #c82333;
 }
+
+@media(max-width: 400px) { .time-display{ padding: 0; } }
